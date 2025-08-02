@@ -1,4 +1,4 @@
-# 📈 Patent Batch Monitor GUI
+# 📈 Monitor Folder Chart GUI
 
 A lightweight Tkinter-based monitoring tool for tracking PDF file growth and folder size over time — designed for pharmaceutical and regulatory document management such as the Orange Book or patent batch collections.
 
